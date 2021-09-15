@@ -10,5 +10,7 @@ Project is created with:
 
 • Pandas
 
-Requires detection file to be in CSV format
+Requires:
+
+• detection file is in CSV format
 
