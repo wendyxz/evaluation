@@ -1,5 +1,5 @@
 # Per-Minute-Evaluation Script
-Script that generates average accuracy and error per minute for face and body detector
+Script that calculates average accuracy and error per minute of a face and body detector that counts people entering and exiting an exposition
 
 ## Technologies
 Project is created with:
@@ -10,7 +10,7 @@ Project is created with:
 
 • Pandas
 
-Requires:
+###Requires:
 
-• detection file is in CSV format
+• detections are in CSV file format
 
