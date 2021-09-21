@@ -1,5 +1,5 @@
 # Per-Minute-Evaluation Script
-Script that calculates average accuracy and error per minute of a face and body detector that counts people entering and exiting an exposition
+Script that calculates average accuracy and error per minute of a face and body detector that counts people entering and exiting an exposition, by comparing detections with ground-truth data
 
 ## Technologies
 Project is created with:
